@@ -65,7 +65,7 @@ public class CardTest {
      * Test of toString method, of class Card.
      */
     @Test
-    public void testToStringBoundry() {
+    public void testToString() {
         System.out.println("toString");
         Card instance = new Card();
         String expResult = "";
